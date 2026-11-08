@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+models/
+pretrained_models/
+exported_models/
+workspace/models/
+
+*.record
+*.tar.gz
+workspace/images/
+
+workspace/annotations/train/
+workspace/annotations/test/
